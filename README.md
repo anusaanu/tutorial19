@@ -1,4 +1,4 @@
-#  Business Analytics Projects
+#  Analytics Projects
 
 ## Overview
 This repository contains various business analytics projects aimed at providing insights into different domains. The projects utilize data analysis techniques to uncover patterns and trends.
